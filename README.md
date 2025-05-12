@@ -7,10 +7,12 @@ To write a program to implement the the Logistic Regression Model to Predict the
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 ## Algorithm
+```
 1.Load the dataset, drop unnecessary columns, and encode categorical variables.
 2.Define the features (X) and target variable (y).
 3.Split the data into training and testing sets.
 4.Train the logistic regression model, make predictions, and evaluate using accuracy and other
+```
 ## Program:
 ```
 /*
